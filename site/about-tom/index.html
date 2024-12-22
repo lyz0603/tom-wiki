@@ -440,14 +440,14 @@
 <li>学号：0101237035256，8（幸运数字）</li>
 <li>起源：小和山大猩猩变异</li>
 <li>主要食物：烂香蕉 (rotten banana)，小米，大脑切片</li>
-<li>喜好：给别人起<strong>侮辱性</strong>外号[^1]，吃小米和大脑切片[^2]<blockquote>
+<li>喜好：给别人起<strong>侮辱性</strong>外号，吃小米和大脑切片<blockquote>
 <p>注意！古猿的行为是<strong>民事违法行为</strong>，请勿模仿！违反了<a href="https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D">民法典</a>第一千零二十五条：“行为人为公共利益实施新闻报道、舆论监督等行为，影响他人名誉的，不承担民事责任，但是有下列情形之一的除外：（一）捏造、歪曲事实；（二）对他人提供的严重失实内容未尽到合理核实义务；<strong>（三）使用侮辱性言辞等贬损他人名誉。</strong>”</p>
 </blockquote>
 </li>
 </ul>
 <h2 id="_5">天敌</h2>
 <ul>
-<li>暗恋：王圣茹，施圣垚（其实是<strong>猎物</strong> ~~，总是被“现场宰杀”~~）</li>
+<li>暗恋：王圣茹，施圣垚（其实是<strong>猎物</strong>）</li>
 <li>害怕：何嘉颖</li>
 </ul>
 <h2 id="_6">外号对照表</h2>
@@ -529,10 +529,66 @@
 
 
 
+  
+  
 
 
 
 
+
+
+  <h2 id="__comments">评论</h2>
+  <!-- Insert generated snippet here -->
+  <script src="https://giscus.app/client.js"
+    data-repo="lyz0603/lyz0603.github.io"
+    data-repo-id="R_kgDONgoKxw"
+    data-category="Announcements"
+    data-category-id="DIC_kwDONgoKx84Cla0L"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="zh-CN"
+    crossorigin="anonymous"
+    async>
+  </script>
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
+
+      // Instruct Giscus to set theme
+      giscus.setAttribute("data-theme", theme) 
+    }
+
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
+
+          // Instruct Giscus to change theme
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
 
                 
               </article>

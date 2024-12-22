@@ -4,6 +4,7 @@ repo_url: https://github.com/lyz0603/lyz0603.github.io
 theme:
   name: material
   language: zh
+  custom_dir: overrides
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
