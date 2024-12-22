@@ -1,0 +1,12 @@
+site_name: 古猿百科
+site_url: https://lyz0603.github.io
+repo_url: https://github.com/lyz0603/lyz0603.github.io
+theme:
+  name: material
+  language: zh
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
