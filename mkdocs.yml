@@ -1,13 +1,77 @@
 site_name: 古猿百科
 site_url: https://lyz0603.github.io
 repo_url: https://github.com/lyz0603/lyz0603.github.io
+site_description: 古猿百科
+site_author: Rafa
+
 theme:
   name: material
   language: zh
   custom_dir: overrides
+
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: 本页目录
+      permalink_title: 永久链接
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+          kwds:
+            case: lower
+      toc_depth: 3
+  - tables
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.betterem
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+        - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+      auto_title: true
+      linenums: true
+      linenums_style: pymdownx-inline
+      line_spans: __span
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 主页: index.md
+  - 关于古猿: about-tom.md
+  - 栖息地介绍（关于HFLS）: about-hfls.md
