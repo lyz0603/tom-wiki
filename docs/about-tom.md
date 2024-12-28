@@ -6,8 +6,8 @@ comments: true
 
 ## 照片
 
-- ![学农](./img/1.png)
-- ![微信](./img/2.jpg)
+- ![学农](./img/at1.png)
+- ![微信](./img/at2.jpg)
 
 ## 名称
 

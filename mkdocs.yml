@@ -9,6 +9,8 @@ theme:
   language: zh
   custom_dir: overrides
 
+copyright: Copyright &copy; 2024-2025 养老院
+
 markdown_extensions:
   - abbr
   - admonition
@@ -37,15 +39,15 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      # emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
         - overrides/.icons
   - pymdownx.highlight:
       anchor_linenums: true
       use_pygments: true
-      auto_title: true
-      linenums: true
+      # auto_title: true
+      # linenums: true
       linenums_style: pymdownx-inline
       line_spans: __span
   - pymdownx.superfences:
@@ -65,7 +67,7 @@ markdown_extensions:
           case: lower
   - pymdownx.tasklist:
       custom_checkbox: true
-      clickable_checkbox: true
+      # clickable_checkbox: true
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -74,4 +76,4 @@ extra_javascript:
 nav:
   - 主页: index.md
   - 关于古猿: about-tom.md
-  - 栖息地介绍（关于HFLS）: about-hfls.md
+  - 栖息地介绍: about-hfls.md
