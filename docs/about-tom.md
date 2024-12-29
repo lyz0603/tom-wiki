@@ -50,17 +50,5 @@ comments: true
 - 分解：$GuYuan \xrightarrow{用烂香蕉轰击} Ga + Y + 2U$
 - 合成：$Mo + T \xrightarrow{178 {^\circ C} 高温} Tom$
 
-## C++
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main()
-{
-    return 0;
-}
-```
-
 [^1]: 法语发音类似Dom
 [^2]: 注意！古猿的行为是**民事违法行为**，请勿模仿！违反了[民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D)第一千零二十五条：“行为人为公共利益实施新闻报道、舆论监督等行为，影响他人名誉的，不承担民事责任，但是有下列情形之一的除外：（一）捏造、歪曲事实；（二）对他人提供的严重失实内容未尽到合理核实义务；**（三）使用侮辱性言辞等贬损他人名誉。**”
