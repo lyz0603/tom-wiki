@@ -12,10 +12,10 @@ comments: true
 
 欢迎来到古猿百科，请点击左侧文章查看。
 
-链接：
+## 链接
 
 1. [Github Pages](https://lyz0603.github.io/)
-2. [Netlify](https://inspiring-smakager-0bd221.netlify.app/)
+2. [Netlify](https://tom-wiki.netlify.app/)
 
 ## 待办
 
@@ -27,3 +27,8 @@ comments: true
 6. [ ] 完整“时局图”
 7. [x] 自动化部署
 8. [x] 行内$\rm{\LaTeX}$支持
+
+## 其他
+
+- 打倒日语，7B万岁！！！
+- 打倒Tom，Lucky万岁！！！！！
