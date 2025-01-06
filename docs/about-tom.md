@@ -8,12 +8,13 @@ comments: true
 
 - ![学农](./img/about-tom1.png)
 - ![微信](./img/about-tom2.jpg)
+- ![打哈欠](./img/about-tom3.png)
 
 ## 名称
 
 - 中文名：王昊宸
 - 外文名：Tom[^1]
-- 学名：古猿 (ancient ape)
+- 学名：[古猿](./dictionary.md) (ancient ape)
 - **曾经的**外号：王耗子
 - 小名：乐乐
 
