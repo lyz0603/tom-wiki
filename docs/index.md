@@ -6,9 +6,7 @@ comments: true
 
 ## 欢迎
 
-【广告位招租】
-
-如果你不是杭州外国语学校2023级七班的同学，你可以离开了。
+**如果你不是杭州外国语学校2023级七班的同学，你可以离开了。**
 
 欢迎来到古猿百科，请点击左侧文章查看。
 
@@ -16,7 +14,7 @@ comments: true
 
 本网站用于记录Tom的信息和罪行。
 
-**征集古猿诗词、文章、题目！**
+**征集古猿诗词、文章、题目、英语词典！**
 
 你不会搜到这个网站除非搜索引擎不遵守robots.txt
 
@@ -35,3 +33,9 @@ comments: true
 6. [ ] 完整“时局图”
 7. [x] 自动化部署
 8. [x] 行内$\rm{\LaTeX}$支持
+
+## 状态监测
+
+[![netlify](https://api.netlify.com/api/v1/badges/f4219cb3-e2bf-4a9f-90de-bee57d10e0c3/deploy-status)](https://app.netlify.com/sites/tom-wiki/deploys)
+[![ci](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/ci.yml)
+[![pages](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/dynamic/pages/pages-build-deployment/badge.svg)](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/pages/pages-build-deployment)
