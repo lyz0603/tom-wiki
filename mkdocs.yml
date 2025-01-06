@@ -76,4 +76,5 @@ extra_javascript:
 nav:
     - 主页: index.md
     - 关于古猿: about-tom.md
+    - 词典: dictionary.md
     - 栖息地介绍: about-hfls.md
