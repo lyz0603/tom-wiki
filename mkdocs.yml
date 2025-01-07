@@ -1,13 +1,20 @@
 site_name: 古猿百科
-# site_url: https://lyz0603.github.io
 repo_url: https://github.com/lyz0603/lyz0603.github.io
+repo_name: lyz0603/lyz0603.github.io
 site_description: 古猿百科
 site_author: Rafa
+edit_uri: edit/main/docs/
 
 theme:
     name: material
     language: zh
     custom_dir: overrides
+    features:
+        - content.action.edit
+        - content.action.view
+    icon:
+        edit: material/pencil 
+        view: material/eye
 
 copyright: Copyright &copy; 2023-2025 养老院
 
@@ -38,11 +45,7 @@ markdown_extensions:
         mode: view
     - pymdownx.details
     - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji 
-        # emoji_generator: !!python/name:material.extensions.emoji.to_svg
-        options:
-            custom_icons:
-            - overrides/.icons
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.highlight:
         anchor_linenums: true
         use_pygments: true
@@ -67,7 +70,11 @@ markdown_extensions:
                 case: lower
     - pymdownx.tasklist:
         custom_checkbox: true
-        # clickable_checkbox: true
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/lyz0603/lyz0603.github.io
 
 extra_javascript:
     - javascripts/mathjax.js
