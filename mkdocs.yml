@@ -12,9 +12,15 @@ theme:
     features:
         - content.action.edit
         - content.action.view
+        - search.suggest
+        - search.highlight
+        - search.share
     icon:
         edit: material/pencil 
         view: material/eye
+
+plugins:
+  - search
 
 copyright: Copyright &copy; 2023-2025 养老院
 
@@ -83,5 +89,5 @@ extra_javascript:
 nav:
     - 主页: index.md
     - 关于古猿: about-tom.md
-    - 词典: dictionary.md
-    - 栖息地介绍: about-hfls.md
+    - 附录一：词典: dictionary.md
+    - 附录二：栖息地介绍: about-hfls.md
