@@ -9,7 +9,7 @@ comments: true
 - ![学农](./img/about-tom1.png)
 - ![微信](./img/about-tom2.jpg)
 - ![打哈欠](./img/about-tom3.png)
-- [运动会](./img/about-tom4.png)
+- ![运动会](./img/about-tom4.png)
 
 ## 名称
 
