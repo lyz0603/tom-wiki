@@ -1,0 +1,89 @@
+# 古猿文集
+
+## 古猿诗词
+
+**其一**
+
+古猿东望路漫漫，初一七班香蕉烂。<br />
+古猿不交实验班，海哥变成白眼怪。<br />
+古猿回归博物馆，海哥流放小和山。<br />
+小和山上香蕉怪，直骂古猿觉悟慢。
+
+**其二**
+
+*饮（小米）酒（其五）*
+
+结庐在杭外，常听汤姆喧。<br />
+问君何能尔？猿远地自偏。<br />
+采蕉七班下，悠然见和山。<br />
+山气日夕佳，古猿相与还。<br />
+此中有觉悟，欲辨已忘言。
+
+&emsp;&emsp;——小土（王昊）宸
+
+**其三**
+
+古猿值日分数危，初一七班全是灰。<br />
+若待下午海哥归，古猿飞进垃圾堆。
+
+**其四**
+
+古猿上课不带书，文综考试把毛梳。<br />
+一题不会就翻书，作弊零分只会哭。
+
+**其五**
+
+百猿进门就猴叫，全班同学都大笑。<br />
+海哥看见不太妙，建议主班都通校。
+
+**其六**
+
+海哥让答问题，结果猿打喷嚏。<br />
+引起海哥注意，但是古猿不立。
+
+**其七**
+
+古猿上课傻笑，海哥建议通校。<br />
+古猿知不太妙，回到家吃青蕉。
+
+**其八**
+
+古猿冰上爬，压强是几帕？<br />
+海哥把他骂，只能找小马。
+
+???+ warning "警告"
+
+    以下古猿诗没过审！！！
+
+    ??? note "查看剩余部分"
+
+        **其九**
+
+        古猿夫如何，放屁停不了。<br />
+        臭屁钟古猿，屎尿割昏晓。<br />
+        肠道生臭屁，熏死群归鸟。<br />
+        会当珠峰顶，一屁众生倒。
+
+        **其十**
+
+        古猿画图不用尺，上课乱叫尽作死。<br />
+        花心古猿太无耻，吃完香蕉想吃屎。
+
+        **其十一**
+        
+        古猿喜欢王圣茹，天天大叫：“土番薯！”<br />
+        她说古猿太粗鲁，古猿大叫：“肏你母！”
+
+## 听力材料
+
+**Unit 6 Exercise 1b**
+
+Read the article again and listen. Check your answer to Exercise 1a. 
+
+**Unusual Tom around the world**
+
+Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi—rotten fish—all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
+
+Tom also says that in Xiaohen Mountain, the chimpanzees have very good food. Some of them are mangos or apples, but others have got different food—Tom's meat. Not for me, thanks!
+
+But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes are full of white. And Hai Ge angrily called a banana monster. The monster came and fought with Tom hasn't got Juwu, and took it back to the museum. Now Tom is showing in there. It's still farting day by day. Its Bruce loves to watch it in the museum.
