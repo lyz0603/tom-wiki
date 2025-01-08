@@ -19,7 +19,7 @@ comments: true
 
 1. （一种生物）ancient ape; ancient chimpanzee; chimpanzee
     - 小和山上有很多\~。  
-      There are many ancient apes in Xiaohe Mountain.
+      _There are many ancient apes in Xiaohe Mountain._
 2. （特指王昊宸）Tom
     - \~是个坏蛋。  
-      Tom is a bad guy.
+      _Tom is a bad guy._
