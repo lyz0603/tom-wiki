@@ -20,7 +20,15 @@ theme:
         view: material/eye
 
 plugins:
-  - search
+    - search
+    - blog
+    - rss:
+        match_path: blog/posts/.* 
+        date_from_meta:
+            as_creation: date
+        categories:
+            - categories
+            - tags
 
 copyright: Copyright &copy; 2023-2025 养老院
 
@@ -31,14 +39,7 @@ markdown_extensions:
     - def_list
     - footnotes
     - md_in_html
-    - toc:
-        permalink: true
-        title: 本页目录
-        permalink_title: 链接
-        slugify: !!python/object/apply:pymdownx.slugs.slugify
-            kwds:
-                case: lower
-        toc_depth: 3
+    - toc
     - tables
     - pymdownx.arithmatex:
         generic: true
@@ -47,35 +48,17 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.mark
     - pymdownx.tilde
-    - pymdownx.critic:
-        mode: view
+    - pymdownx.critic
     - pymdownx.details
-    - pymdownx.emoji:
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
-    - pymdownx.highlight:
-        anchor_linenums: true
-        use_pygments: true
-        auto_title: true
-        linenums: true
-        linenums_style: pymdownx-inline
-        line_spans: __span
-    - pymdownx.superfences:
-        custom_fences:
-            - name: mermaid
-              class: mermaid
-              format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.emoji
+    - pymdownx.highlight
+    - pymdownx.superfences
     - pymdownx.inlinehilite
     - pymdownx.keys
     - pymdownx.smartsymbols
     - pymdownx.snippets
-    - pymdownx.tabbed:
-        alternate_style: true
-        combine_header_slug: true
-        slugify: !!python/object/apply:pymdownx.slugs.slugify
-            kwds:
-                case: lower
-    - pymdownx.tasklist:
-        custom_checkbox: true
+    - pymdownx.tabbed
+    - pymdownx.tasklist
 
 extra:
     social:
@@ -88,7 +71,9 @@ extra_javascript:
 
 nav:
     - 主页: index.md
-    - 关于古猿: about-tom.md
-    - 附录一：词典: dictionary.md
-    - 附录二：栖息地介绍: about-hfls.md
-    - 附录三：古猿文集: poems.md
+    - 关于古猿: about.md
+    - 古猿词典: dictionary.md
+    - 栖息地介绍: habitat.md
+    - 古猿文库: docs.md
+    - 古猿博客:
+        - blog/index.md
