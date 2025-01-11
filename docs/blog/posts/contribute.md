@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2025-01-11
 categories:
     - 教程
@@ -37,4 +36,4 @@ comments: true
 3. 在docs/下添加文件，并修改mkdocs.yml的nav配置
 4. 用mkdocs serve测试无误后commit并push，提交pr
 
-注：只是草稿，写的有点乱，寒假改
+注：写的有点乱，寒假改
