@@ -1,4 +1,4 @@
----
+3---
 comments: true
 ---
 
@@ -24,4 +24,4 @@ comments: true
 
 [![netlify](https://api.netlify.com/api/v1/badges/f4219cb3-e2bf-4a9f-90de-bee57d10e0c3/deploy-status)](https://app.netlify.com/sites/tom-wiki/deploys)
 [![ci](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/ci.yml)
-[![pages](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/dynamic/pages/pages-build-deployment/badge.svg)](https://github.com/lyz0603/lyz0603.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages](https://github.com/lyz0603/tom-wiki/actions/workflows/dynamic/pages/pages-build-deployment/badge.svg)](https://github.com/lyz0603/tom-wiki/actions/workflows/pages/pages-build-deployment)
