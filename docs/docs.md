@@ -15,7 +15,7 @@ comments: true
 
 **其二**
 
-*饮（小米）酒（其五）*
+*饮（小米）酒 其五*
 
 结庐在杭外，常听汤姆喧。<br />
 问君何能尔？猿远地自偏。<br />
@@ -57,7 +57,7 @@ comments: true
 
 ???+ warning "警告"
 
-    以下古猿诗没过审！！！！可能有脏东西！！！！
+    没过审！
 
     ??? note "执意要看："
 
@@ -80,14 +80,14 @@ comments: true
 
 ## 听力材料
 
-**Unit 6 Exercise 1b**
+*Unit 6 Exercise 1b*
 
-Read the article again and listen. Check your answer to Exercise 1a. 
+_Read the article again and listen. Check your answer to Exercise 1a._
 
 **Unusual Tom around the world**
 
-Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi—rotten fish—all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
+Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi - rotten fish - all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
 
-Tom also says that in Xiaohen Mountain, the chimpanzees have very good food. Some of them are mangos or apples, but others have got different food—Tom's meat. Not for me, thanks!
+Tom also says that in Xiaohen Mountain, the chimpanzees have very good food. Some of them are mangos or apples, but others have got different food - Tom's meat. Not for me, thanks!
 
 But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes are full of white. And Hai Ge angrily called a banana monster. The monster came and fought with Tom hasn't got Juwu, and took it back to the museum. Now Tom is showing in there. It's still farting day by day. Its Bruce loves to watch it in the museum.

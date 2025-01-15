@@ -2,9 +2,7 @@
 comments: true
 ---
 
-# 词典
-
-## 汉语
+# 古猿词典[^1]
 
 【古猿】gǔ yuán
 
@@ -13,13 +11,4 @@ comments: true
 2. [形] 令人无语或沮丧的事物：
     - 今天有好多作业，\~！ | 你个\~！
 
-## 汉英
-
-【古猿】gǔ yuán
-
-1. （一种生物）ancient ape; ancient chimpanzee; chimpanzee
-    - 小和山上有很多\~。<br />
-      _There are many ancient apes in Xiaohe Mountain._
-2. （特指王昊宸）Tom
-    - \~是个坏蛋。<br />
-      _Tom is a bad guy._
+[^1]: 由Rita同学提供
