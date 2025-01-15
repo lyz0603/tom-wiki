@@ -1,6 +1,6 @@
 site_name: 古猿百科
-repo_url: https://github.com/lyz0603/lyz0603.github.io
-repo_name: lyz0603/lyz0603.github.io
+repo_url: https://github.com/lyz0603/tom-wiki
+repo_name: lyz0603/tom-wiki
 site_description: 古猿百科
 site_author: Rafa
 edit_uri: edit/main/docs/
@@ -30,7 +30,7 @@ plugins:
             - categories
             - tags
 
-copyright: Copyright &copy; 2023-2025 养老院
+copyright: Copyright &copy; 2023~2025 养老院
 
 markdown_extensions:
     - abbr
