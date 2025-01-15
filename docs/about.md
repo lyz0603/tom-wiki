@@ -10,6 +10,7 @@ comments: true
 - ![微信](./img/about2.jpg)
 - ![打哈欠](./img/about3.png)
 - ![运动会](./img/about4.png)
+- ![鞋带](./img/about6.png)
 
 ## 名称
 
