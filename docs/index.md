@@ -17,7 +17,7 @@ comments: true
 
 ## 链接
 
-1. [Github Pages](https://lyz0603.github.io/tom-wiki)
+1. [Github Pages](https://lyz0603.github.io/tom-wiki)（稳定）
 2. [Netlify](https://tom88888.netlify.app/)（镜像）
 
 ## 状态监测
