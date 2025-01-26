@@ -6,6 +6,8 @@ comments: true
 
 **7BHW已经占领本网站！这是7BHW的殖民地！7BHW万岁！**
 
+**祝Simon和阿曼达百年好合** :grin:
+
 ## 欢迎
 
 你好！
