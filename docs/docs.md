@@ -91,3 +91,15 @@ Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?
 Tom also says that in Xiaohen Mountain, the chimpanzees have very good food. Some of them are mangos or apples, but others have got different food - Tom's meat. Not for me, thanks!
 
 But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes are full of white. And Hai Ge angrily called a banana monster. The monster came and fought with Tom hasn't got Juwu, and took it back to the museum. Now Tom is showing in there. It's still farting day by day. Its Bruce loves to watch it in the museum.
+
+## 古猿题
+
+* 一种由两种元素组成的化合物可以与金属单质、金属氧化物、非金属单质、非金属氧化物反应，它可以是什么？
+    - 参考答案：~~水~~ 汤姆[^1]
+    - 解析：汤姆$ToM$可以和以下物质反应：
+        - 金属单质：(selin)钠$Na$
+        - 金属氧化物：一氧化香蕉:banana:$BnO$
+        - 非金属单质：土鳖$Tb$
+        - 非金属氧化物：（丁丁里的）二氧化硅$SiO_2$
+
+[^1]: 由Ray提供
