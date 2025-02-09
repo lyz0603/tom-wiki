@@ -21,14 +21,6 @@ theme:
 
 plugins:
     - search
-    - blog
-    - rss:
-        match_path: blog/posts/.* 
-        date_from_meta:
-            as_creation: date
-        categories:
-            - categories
-            - tags
 
 copyright: Copyright &copy; 2023~2025 养老院
 
@@ -76,5 +68,3 @@ nav:
     - 栖息地介绍: habitat.md
     - 古猿文库: docs.md
     - 抗猿名将: people.md
-    - 古猿博客:
-        - blog/index.md
