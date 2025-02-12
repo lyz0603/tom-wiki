@@ -24,8 +24,10 @@ Bonjour!
 
 ## 链接
 
-1. [Github Pages](https://lyz0603.github.io/tom-wiki)（稳定）
-2. [Netlify](https://tom-wiki.netlify.app/)（镜像）
+1. <https://lyz0603.github.io/tom-wiki>
+2. <http://47.99.170.4>
+3. <https://tom-wiki.netlify.app>
+4. <https://tom-wiki.vercel.app>
 
 ## 状态监测
 
