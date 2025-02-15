@@ -6,7 +6,7 @@ comments: true
 
 **7BHW已经占领本网站！这是7BHW的殖民地！7BHW万岁！**
 
-祝AS百年好合！ :grin:
+祝 ~~AS~~ SA百年好合！ :grin: [^1]
 
 ## 欢迎
 
@@ -26,11 +26,10 @@ Bonjour!
 
 1. <https://lyz0603.github.io/tom-wiki>
 2. <http://47.99.170.4>
-3. <https://tom-wiki.netlify.app>
-4. <https://tom-wiki.vercel.app>
 
 ## 状态监测
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f4219cb3-e2bf-4a9f-90de-bee57d10e0c3/deploy-status)](https://app.netlify.com/sites/tom-wiki/deploys)
 [![ci](https://github.com/lyz0603/tom-wiki/actions/workflows/ci.yml/badge.svg)](https://github.com/lyz0603/tom-wiki/actions/workflows/ci.yml)
 [![pages](https://github.com/lyz0603/tom-wiki/actions/workflows/dynamic/pages/pages-build-deployment/badge.svg)](https://github.com/lyz0603/tom-wiki/actions/workflows/dynamic/pages/pages-build-deployment)
+
+[^1]: 怎么回事，还没百年就不好和了……
