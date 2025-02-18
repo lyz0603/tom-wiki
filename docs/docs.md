@@ -8,7 +8,7 @@ comments: true
 
 **其一**
 
-古猿东望路漫漫，初一七班香蕉烂。<br />
+古猿东望路漫漫，初二七班香蕉烂。<br />
 古猿不交实验班，海哥变成白眼怪。<br />
 古猿回归博物馆，海哥流放小和山。<br />
 小和山上香蕉怪，直骂古猿觉悟慢。
@@ -27,7 +27,7 @@ comments: true
 
 **其三**
 
-古猿值日分数危，初一七班全是灰。<br />
+古猿值日分数危，初二七班全是灰。<br />
 若待下午海哥归，古猿飞进垃圾堆。
 
 **其四**
@@ -78,7 +78,7 @@ comments: true
         古猿喜欢王圣茹，天天大叫：“土番薯！”<br />
         她说古猿太粗鲁，古猿大叫：“肏你母！”
 
-## 听力材料
+## 听力材料（作者：Lucky，正在造字——美术课的那种类似密码的玩意）
 
 *Unit 6 Exercise 1b*
 
@@ -98,8 +98,12 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
     - 参考答案：~~水~~ 汤姆[^1]
     - 解析：汤姆$ToM$可以和以下物质反应：
         - 金属单质：(selin)钠$Na$
+            - $2ToM + 2Na \rightarrow To_2 \uparrow + 2NaM$
         - 金属氧化物：一氧化香蕉:banana:$BnO$
+            - $ToM + BnO \rightarrow ToO +  BnM$
         - 非金属单质：土鳖$Tb$
+            - $2ToM + 2Tb \rightarrow To_2 \uparrow + 2TbM$
         - 非金属氧化物：（丁丁里的）二氧化硅$SiO_2$
+            - $2ToM + SiO_2 \rightarrow 2ToO + SiM_2$
 
-[^1]: 由Ray提供
+[^1]: 由Ray提供，纯属虚构，有改编
