@@ -6,7 +6,7 @@ comments: true
 
 **7BHW已经占领本网站！这是7BHW的殖民地！7BHW万岁！**
 
-祝 ~~AS~~ SA百年好合！ :grin: [^1]
+祝 ~~AS~~ SA[^1]百年好合！ :grin:[^2]
 
 ## 欢迎
 
@@ -38,4 +38,12 @@ Hallo!
 [![ci](https://github.com/lyz0603/tom-wiki/actions/workflows/ci.yml/badge.svg)](https://github.com/lyz0603/tom-wiki/actions/workflows/ci.yml)
 [![pages](https://github.com/lyz0603/tom-wiki/actions/workflows/dynamic/pages/pages-build-deployment/badge.svg)](https://github.com/lyz0603/tom-wiki/actions/workflows/dynamic/pages/pages-build-deployment)
 
-[^1]: 怎么回事，还没百年就不好和了……
+## 第一个五年计划
+
+1. [ ] 添加多语种古猿介绍（Andy赞助）
+2. [ ] 域名。备选：
+    - Andy: `www.8tom8.com`
+    - Alfie: `www.ilovetom.com`
+
+[^1]: 对不起之前搞错了，AS是Alex和Selina，SA是Simon和Amanda
+[^2]: 怎么回事，还没百年就不好和了……
