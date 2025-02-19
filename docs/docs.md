@@ -80,7 +80,7 @@ comments: true
 
 ## 听力材料
 
-_（作者：Lucky，正在造字——美术课的那种类似密码的玩意）_
+_（作者：Lucky，正在转换为英文方块字，敬请期待）_
 
 *Unit 6 Exercise 1b*
 
@@ -102,10 +102,10 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
         - 金属单质：(selin)钠$Na$
             - $2ToM + 2Na \rightarrow To_2 \uparrow + 2NaM$
         - 金属氧化物：一氧化香蕉:banana:$BnO$
-            - $ToM + BnO \rightarrow ToO +  BnM$
+            - $ToM + BnO \rightarrow ToO \downarrow +  BnM$
         - 非金属单质：土鳖$Tb$
             - $2ToM + 2Tb \rightarrow To_2 \uparrow + 2TbM$
         - 非金属氧化物：（丁丁里的）二氧化硅$SiO_2$
-            - $2ToM + SiO_2 \rightarrow 2ToO + SiM_2$
+            - $2ToM + SiO_2 \rightarrow 2ToO \downarrow + SiM_2$
 
 [^1]: 由Ray提供，纯属虚构，有改编
