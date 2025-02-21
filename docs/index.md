@@ -6,7 +6,10 @@ comments: true
 
 **7BHW已经占领本网站！这是7BHW的殖民地！7BHW万岁！**
 
-祝 ~~AS~~ SA[^1]百年好合！ :grin:[^2]
+祝AS百年好合！ :grin:
+
+!!! tip "小贴士"
+    AS指Alex和Selina，不是Simon和Amanda！
 
 ## 欢迎
 
@@ -45,5 +48,3 @@ Hallo!
     - Andy: `www.8tom8.com`
     - Alfie: `www.ilovetom.com`
 
-[^1]: 对不起之前搞错了，AS是Alex和Selina，SA是Simon和Amanda
-[^2]: 怎么回事，还没百年就不好和了……
