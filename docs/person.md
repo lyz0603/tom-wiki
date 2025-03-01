@@ -1,5 +1,7 @@
 ---
 comments: true
+search:
+    exclude: true
 ---
 
 # 反古抗猿第一人
