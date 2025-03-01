@@ -8,7 +8,7 @@ comments: true
 
 祝AS百年好合！ :grin:
 
-!!! tip "小贴士"
+??? tip "小贴士"
     AS指Alex和Selina，不是Simon和Amanda！
 
 ## 欢迎
@@ -44,7 +44,3 @@ Hallo!
 ## 第一个五年计划
 
 1. [ ] 添加多语种古猿介绍（Andy赞助）
-2. [ ] 域名。备选：
-    - Andy: `www.8tom8.com`
-    - Alfie: `www.ilovetom.com`
-
