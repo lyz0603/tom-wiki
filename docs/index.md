@@ -9,7 +9,7 @@ comments: true
 祝AS百年好合！ :grin:
 
 ??? tip "小贴士"
-    AS指Alex和Selina，不是Simon和Amanda！
+    此处AS指Alex和Selina。
 
 ## 欢迎
 
