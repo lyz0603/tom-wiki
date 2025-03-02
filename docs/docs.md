@@ -80,13 +80,13 @@ comments: true
 
 ## 听力材料
 
-_（作者：Lucky，正在转换为英文方块字，敬请期待。坏消息：原稿丢失）_
-
 *Unit 6 Exercise 1b*
 
 _Read the article again and listen. Check your answer to Exercise 1a._
 
 **Unusual Tom around the world**
+
+&emsp;&emsp;Lucky
 
 Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi - rotten fish - all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
 
