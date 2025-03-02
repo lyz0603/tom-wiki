@@ -15,6 +15,7 @@ theme:
         - search.suggest
         - search.highlight
         - search.share
+        - navigation.footer
     icon:
         edit: material/pencil 
         view: material/eye
