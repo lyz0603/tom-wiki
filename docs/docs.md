@@ -86,7 +86,7 @@ _Read the article again and listen. Check your answer to Exercise 1a._
 
 **Unusual Tom around the world**
 
-&emsp;&emsp;Lucky
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lucky
 
 Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi - rotten fish - all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
 
