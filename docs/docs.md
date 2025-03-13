@@ -37,7 +37,7 @@ comments: true
 
 **其五**
 
-百猿进门就猴叫，全班同学都大笑。<br />
+古猿进门就猴叫，全班同学都大笑。<br />
 海哥看见不太妙，建议全班都通校。
 
 **其六**
@@ -92,7 +92,7 @@ Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?
 
 Tom also says that in Xiaohen Mountain, the chimpanzees have very good food. Some of them are mangos or apples, but others have got different food - Tom's meat. Not for me, thanks!
 
-But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes are full of white. And Hai Ge angrily called a banana monster. The monster came and fought with Tom hasn't got Juwu, and took it back to the museum. Now Tom is showing in there. It's still farting day by day. Its Bruce loves to watch it in the museum.
+But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes are full of white. And Hai Ge angrily called a banana monster. The monster came and fought with Tom hasn't got Juewu, and took it back to the museum. Now Tom is showing in there. It's still farting day by day. Its Bruce loves to watch it in the museum.
 
 ## 古猿题
 
