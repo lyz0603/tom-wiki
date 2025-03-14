@@ -6,6 +6,10 @@ comments: true
 
 ## 古猿诗词
 
+!!! note "作者"
+    这些诗的作者懒得整了……
+    
+
 **其一**
 
 古猿东望路漫漫，初二七班香蕉烂。<br />
@@ -84,9 +88,7 @@ comments: true
 
 _Read the article again and listen. Check your answer to Exercise 1a._
 
-**Unusual Tom around the world**
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lucky
+**Unusual Tom around the world**[^1]
 
 Tom is a chimpanzee, and it likes food! But when it asks, 'Do you want a banana?', be careful. Most of us eat fresh bananas, but Tom always eats rotten bananas. Tom says, 'I eat sushi - rotten fish - all the time in rain forests. So it isn't surprising that I eat rotten bananas too!'
 
@@ -97,7 +99,7 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
 ## 古猿题
 
 - 一种由两种元素组成的化合物可以与金属单质、金属氧化物、非金属单质、非金属氧化物反应，它可以是什么？
-    - 参考答案：~~水~~ 汤姆[^1]
+    - 参考答案：~~水~~ 汤姆[^2]
     - 解析：汤姆$ToM$可以和以下物质反应：
         - 金属单质：(selin)钠$Na$
             - $2ToM + 2Na \rightarrow To_2 \uparrow + 2NaM$
@@ -108,4 +110,5 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
         - 非金属氧化物：（丁丁里的）二氧化硅$SiO_2$
             - $2ToM + SiO_2 \rightarrow 2ToO \downarrow + SiM_2$
 
-[^1]: 由Ray提供，纯属虚构，有改编
+[^1]: 作者Lucky，试图转换为英文方块字但原稿丢失
+[^2]: 由Ray提供，纯属虚构，有改编

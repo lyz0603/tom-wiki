@@ -34,7 +34,7 @@ comments: true
 ## 爱与恨
 
 - 暗恋：17<del>，42，29</del>（之前还有20）
-- 害怕：38
+- 害怕：[38](./the-first-heroic-person-who-fought-against-the-ancient-ape.md)
 
 ## 名言
 
