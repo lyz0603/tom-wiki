@@ -1,3 +1,153 @@
+# 英语短剧
+
+## 已弃用
+
+好的，以下是一个经典的英语舞台剧剧本，改编自《罗密欧与朱丽叶》（Romeo and Juliet），适合8人演出，时长约8-10分钟。这个剧本经过简化，适合学生表演，同时保留了原作的经典情节和语言风格。
+
+
+---
+
+
+
+剧本名称：Romeo and Juliet:A Classic Tale of Love and Feud
+
+
+角色：
+
+1. Romeo Montague（罗密欧·蒙太古）
+
+2. Juliet Capulet（朱丽叶·凯普莱特）
+
+3. Mercutio（墨丘利奥）
+
+4. Tybalt Capulet（提伯尔特·凯普莱特）
+
+5. Friar Laurence（劳伦斯神父）
+
+6. Nurse（朱丽叶的奶妈）
+
+7. Benvolio（班沃里奥）
+
+8. Lord Capulet（凯普莱特伯爵）
+
+
+场景一：维罗纳的街道
+Benvolio:(To Romeo)Why are you so sad,Romeo?Is it because of Rosaline?
+
+Romeo:(Sighing)Ay,Benvolio,she doth not love me.My heart is heavy.
+
+Mercutio:(Laughing)Come,Romeo!Let us go to the Capulet's feast.Maybe you'll find a new love there.
+
+Romeo:(Reluctantly)Very well,but I doubt it.
+
+
+---
+
+
+
+场景二：凯普莱特家的舞会
+Lord Capulet:(Welcoming guests)Welcome,all!Let us dance and be merry!
+
+Romeo:(Spotting Juliet)O,she doth teach the torches to burn bright!It seems she hangs upon the cheek of night like a rich jewel in an Ethiope's ear.Beauty too rich for use,for earth too dear!
+
+Juliet:(To herself)If I profane with my unworthiest hand this holy shrine,the gentle sin is this:my lips,two blushing pilgrims,ready stand to smooth that rough touch with a tender kiss.
+
+Romeo:(Approaching Juliet)My lips,two blushing pilgrims,ready stand to smooth that rough touch with a tender kiss.
+
+Juliet:(Blushing)Good pilgrim,you do wrong your hand too much,which mannerly devotion shows in this.For saints have hands that pilgrims'hands do touch,and palm to palm is holy palmers'kiss.
+
+Romeo:(Enchanted)Have not saints lips,and holy palmers too?
+
+Juliet:Ay,pilgrim,lips that they must use in prayer.
+
+Romeo:O,then,dear saint,let lips do what hands do.They pray,grant thou,lest faith turn to despair.
+
+Juliet:Saints do not move,though grant for prayers'sake.
+
+Romeo:Then move not while my prayer's effect I take.(Kisses Juliet)
+
+
+---
+
+
+
+场景三：阳台场景
+Juliet:(Alone on the balcony)O Romeo,Romeo!Wherefore art thou Romeo?Deny thy father and refuse thy name.Or,if thou wilt not,be but sworn my love,and I'll no longer be a Capulet.
+
+Romeo:(Hiding below)Shall I hear more,or shall I speak at this?
+
+Juliet:'Tis but thy name that is my enemy.Thou art thyself,though not a Montague.What's in a name?That which we call a rose by any other name would smell as sweet.
+
+Romeo:(Revealing himself)Juliet,I swear by yonder moon that I love thee.
+
+Juliet:(Caution)O,swear not by the moon,the inconstant moon,that monthly changes in her circled orb.Swear by thy gracious self,which is the god of my idolatry.
+
+Romeo:(Solemnly)I swear by my heart and soul that I love thee,Juliet.
+
+
+---
+
+
+
+场景四：劳伦斯神父的教堂
+Friar Laurence:(To Romeo and Juliet)In the name of God,I join you together in holy matrimony.Let your love be a beacon of hope in this troubled world.
+
+Romeo:(Holding Juliet's hand)I am thine,Juliet,and thou art mine.
+
+Juliet:(Smiling)And all my fortunes at thy foot I'll lay.
+
+
+---
+
+
+
+场景五：街头冲突
+Tybalt:(To Romeo)Thou art a villain,Montague!Draw thy sword!
+
+Mercutio:(Defending Romeo)Come,Tybalt,I will not have you fight my friend.
+
+Tybalt:(Attacking Mercutio)Then die,Mercutio!
+
+Mercutio:(Dying)A plague on both your houses!I am slain.
+
+Romeo:(Enraged)Tybalt,thou shalt pay for this!(Fights Tybalt and kills him)
+
+Benvolio:(Holding Romeo back)Flee,Romeo!The prince will surely banish thee.
+
+Romeo:(Desperate)O,I am fortune's fool!
+
+
+---
+
+
+
+场景六：悲剧结局
+Nurse:(To Juliet)Alas,young Romeo is banished!What shall we do?
+
+Juliet:(Despairing)What's Montague to me now?My love is gone,and I am left alone.
+
+Romeo:(Offstage)Juliet,my love,I must leave thee.Farewell.
+
+Juliet:(Crying)Farewell,my love.Until we meet again.
+
+Narrator:(Voiceover)Thus ends the tale of two star-crossed lovers,whose love was doomed by fate.Their tragic deaths finally reconciled the feuding families,and peace returned to Verona.But their story will live on forever as a testament to the power of love.
+
+
+---
+
+
+
+结尾
+全体演员上台谢幕。
+
+
+---
+
+
+这个剧本改编自莎士比亚的经典作品《罗密欧与朱丽叶》，情节紧凑，语言优美，适合8人表演，时长约8-10分钟。
+
+## 第一版
+
 好的，以下是一个适合8人的经典英语舞台剧剧本，改编自《哈姆雷特》（Hamlet）。这个剧本经过简化，适合8人演出，时长约8-10分钟，保留了原作的经典情节和语言风格。
 
 
@@ -150,10 +300,7 @@ Hamlet:(Dying)The rest is silence.
 
 这个剧本改编自莎士比亚的经典作品《哈姆雷特》，情节紧凑，语言优美，适合8人表演，时长约8-10分钟。
 
-
----
-
----
+## 第二版
 
 以下是修改后的《哈姆雷特》舞台剧剧本，在保留原有结构的基础上增加了关键情节与戏剧张力，总时长控制在12-15分钟，仍适合8人演出：
 
