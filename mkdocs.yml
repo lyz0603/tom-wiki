@@ -1,7 +1,7 @@
 site_name: 古猿百科
 repo_url: https://github.com/lyz0603/tom-wiki
 repo_name: lyz0603/tom-wiki
-site_description: 古猿百科
+site_description: 一个介绍王昊宸的网站
 site_author: Rafa
 edit_uri: edit/main/docs/
 
@@ -12,46 +12,29 @@ theme:
     features:
         - content.action.edit
         - content.action.view
+        - search.share
+        - navigation.top
+        - navigation.tabs
+        - navigation.sections
+        - navigation.footer
+        - toc.integrate
         - search.suggest
         - search.highlight
-        - search.share
-        - navigation.footer
+        - content.tabs.link
     icon:
-        edit: material/pencil 
+        edit: material/pencil
         view: material/eye
 
 plugins:
     - search
+    - minify:
+        minify_html: true
+        minify_css: true
+        minify_js: true
+    - git-revision-date
+    - awesome-pages
 
 copyright: Copyright &copy; 2023~2025 养老院
-
-markdown_extensions:
-    - abbr
-    - admonition
-    - attr_list
-    - def_list
-    - footnotes
-    - md_in_html
-    - toc
-    - tables
-    - pymdownx.arithmatex:
-        generic: true
-    - pymdownx.betterem
-    - pymdownx.blocks.caption
-    - pymdownx.caret
-    - pymdownx.mark
-    - pymdownx.tilde
-    - pymdownx.critic
-    - pymdownx.details
-    - pymdownx.emoji
-    - pymdownx.highlight
-    - pymdownx.superfences
-    - pymdownx.inlinehilite
-    - pymdownx.keys
-    - pymdownx.smartsymbols
-    - pymdownx.snippets
-    - pymdownx.tabbed
-    - pymdownx.tasklist
 
 extra:
     social:
@@ -70,3 +53,39 @@ nav:
         - 古猿词典: dictionary.md
         - 栖息地介绍: habitat.md
         - 反猿英雄第一人: the-first-heroic-person-who-fought-against-the-ancient-ape.md
+    - 短剧: hmlt.md
+
+markdown_extensions:
+      - abbr
+      - admonition
+      - attr_list
+      - def_list
+      - footnotes
+      - md_in_html
+      - toc
+      - tables
+      - pymdownx.arithmatex:
+           generic: true
+      - pymdownx.betterem
+      - pymdownx.blocks.caption
+      - pymdownx.caret
+      - pymdownx.mark
+      - pymdownx.tilde
+      - pymdownx.critic
+      - pymdownx.details
+      - pymdownx.emoji
+      - pymdownx.highlight
+      - pymdownx.superfences
+      - pymdownx.inlinehilite
+      - pymdownx.keys
+      - pymdownx.smartsymbols
+      - pymdownx.snippets
+      - pymdownx.tabbed
+      - pymdownx.tasklist
+      - codehilite
+      - extra
+      - meta
+      - smarty
+      - wikilinks
+      - pymdownx.magiclink
+      - pymdownx.progressbar
