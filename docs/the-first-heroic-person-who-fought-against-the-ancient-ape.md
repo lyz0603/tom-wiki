@@ -1,5 +1,6 @@
 ---
 comments: true
+password: lucky
 ---
 
 # 反猿英雄第一人
