@@ -6,11 +6,11 @@ comments: true
 
 ## 照片
 
-- ![打哈欠](./img/about3.png)
-- ![学农](./img/about1.png)
-- ![微信](./img/about2.jpg)
-- ![运动会](./img/about4.png)
-- ![鞋带](./img/about6.png)
+- ![打哈欠](./files/about3.png)
+- ![学农](./files/about1.png)
+- ![微信](./files/about2.jpg)
+- ![运动会](./files/about4.png)
+- ![鞋带](./files/about6.png)
 
 ## 名称
 
@@ -25,7 +25,7 @@ comments: true
 - 栖息地：[杭州外国语学校 (HFLS)](./habitat.md)，小和山，博物馆
     - 学号：0101237035256，8（幸运数字）
     - 班级：2023级7班，~~初一7班~~$\rightarrow$初二7班
-    - 小学：[采荷一小？](./img/about5.jpg)
+    - 小学：[采荷一小？](./files/about5.jpg)
 - 起源：小和山大猩猩变异
 - 主要食物：烂香蕉 (rotten banana)
 - 喜好：给别人起**侮辱性**外号[^2]
@@ -65,6 +65,7 @@ comments: true
 |25|（臭）废土|
 |26|（三/老）文鱼，文三鱼，大马哈鱼|
 |29|（施）圣土|
+|30|大萝卜，萝卜头|
 |31|（臭）暗迪|
 |34|常狗|
 |37|暗恋 roast Kiki|

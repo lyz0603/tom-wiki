@@ -395,3 +395,5 @@ Would he have used me so, had I not given him my heart?（将花环抛入虚空�
 5. 时长控制在15分钟内，可通过调整独白节奏灵活压缩  
 
 此版本既适合学生表演，又通过强烈的视觉意象传递莎剧精髓。需要道具：布景屏风（快速切换场景）、软木剑、骨制酒杯、纸质花瓣等。
+
+[下载Word文档](./files/hmlt1.docx)
