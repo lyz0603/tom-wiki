@@ -306,6 +306,10 @@ Hamlet:(Dying)The rest is silence.
 
 ## 第二版
 
+[下载Word文档](./files/hmlt1.docx)
+
+## 第三版
+
 以下是修改后的《哈姆雷特》舞台剧剧本，在保留原有结构的基础上增加了关键情节与戏剧张力，总时长控制在12-15分钟，仍适合8人演出：
 
 ---
@@ -395,4 +399,4 @@ Would he have used me so, had I not given him my heart?（将花环抛入虚空�
 
 此版本既适合学生表演，又通过强烈的视觉意象传递莎剧精髓。需要道具：布景屏风（快速切换场景）、软木剑、骨制酒杯、纸质花瓣等。
 
-[下载Word文档](./files/hmlt1.docx)
+[下载Word文档](./files/hmlt2.docx)
