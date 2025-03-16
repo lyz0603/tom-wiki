@@ -1,5 +1,6 @@
 ---
 comments: true
+password: hmlt8888
 ---
 
 # 英语短剧
