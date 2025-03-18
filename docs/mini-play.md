@@ -1,11 +1,11 @@
 ---
 comments: true
-password: hlmt114514
+password: hddxz114514
 ---
 
 # 英语短剧
 
-## 已弃用
+## v1
 
 好的，以下是一个经典的英语舞台剧剧本，改编自《罗密欧与朱丽叶》（Romeo and Juliet），适合8人演出，时长约8-10分钟。这个剧本经过简化，适合学生表演，同时保留了原作的经典情节和语言风格。
 
@@ -151,7 +151,7 @@ Narrator:(Voiceover)Thus ends the tale of two star-crossed lovers,whose love was
 
 这个剧本改编自莎士比亚的经典作品《罗密欧与朱丽叶》，情节紧凑，语言优美，适合8人表演，时长约8-10分钟。
 
-## 第一版
+## v2
 
 好的，以下是一个适合8人的经典英语舞台剧剧本，改编自《哈姆雷特》（Hamlet）。这个剧本经过简化，适合8人演出，时长约8-10分钟，保留了原作的经典情节和语言风格。
 
@@ -305,11 +305,11 @@ Hamlet:(Dying)The rest is silence.
 
 这个剧本改编自莎士比亚的经典作品《哈姆雷特》，情节紧凑，语言优美，适合8人表演，时长约8-10分钟。
 
-## 第二版
+## v3
 
 [下载Word文档](./files/hmlt1.docx)
 
-## 第三版
+## v4
 
 以下是修改后的《哈姆雷特》舞台剧剧本，在保留原有结构的基础上增加了关键情节与戏剧张力，总时长控制在12-15分钟，仍适合8人演出：
 
@@ -401,3 +401,127 @@ Would he have used me so, had I not given him my heart?（将花环抛入虚空�
 此版本既适合学生表演，又通过强烈的视觉意象传递莎剧精髓。需要道具：布景屏风（快速切换场景）、软木剑、骨制酒杯、纸质花瓣等。
 
 [下载Word文档](./files/hmlt2.docx)
+
+
+## v5
+
+《The Emperor's New Clothes》
+
+Characters:
+
+- Narrator(旁白)
+
+- Emperor(皇帝)
+
+- Cheat A(骗子A)
+
+- Cheat B(骗子B)
+
+- Minister(大臣)
+
+- Child(孩子)
+
+- Citizen 1(市民1)
+
+- Citizen 2(市民2)
+
+Scene 1:The Palace
+
+(The Emperor is sitting on his throne,surrounded by his servants.He is looking at himself in a mirror,adjusting his robes.)
+
+Emperor:Oh,my subjects!I must have the most beautiful clothes in the world.I will give a reward to anyone who can make me the finest garments.
+
+(Cheat A and Cheat B enter the palace,dressed as tailors,carrying a large bundle of"fabric".)
+
+Cheat A:Your Majesty,we are the most skilled tailors in the land.We have traveled far and wide to bring you the most exquisite materials.
+
+Cheat B:And these clothes have a special power.Only the wise and worthy can see them.Fools will see nothing at all.
+
+Emperor:Really?Then you must make me these clothes at once!I will have the finest wardrobe in the kingdom.
+
+Cheat A:Of course,Your Majesty.We will start weaving immediately.
+
+Cheat B:The colors will be so vibrant,and the patterns so intricate,that all who see you will be in awe.
+
+Emperor:Excellent!I will return tomorrow to check on your progress.
+
+Scene 2:The Weaving Process
+
+(The two cheats set up a loom and pretend to weave.They make gestures as if handling fabric and thread.)
+
+Cheat A:Look,Your Majesty,the cloth is taking shape.Isn't it magnificent?
+
+Cheat B:Yes,the colors are so vibrant!You will look splendid in these new clothes.
+
+Emperor:I can't quite see it,but I must be wise to wear such special clothes.I'll send my minister to check on your progress.
+
+Cheat A:As you wish,Your Majesty.
+
+Scene 3:The Minister's Visit
+
+(The Minister enters,looking nervous.He approaches the loom where the cheats are"weaving".)
+
+Minister:Your Majesty,I see nothing but empty threads.But I can't admit I'm a fool.
+
+Cheat A:Of course you see the clothes!They're almost ready.The patterns are so delicate.
+
+Cheat B:Just tell the Emperor how wonderful they are.He will be pleased.
+
+Minister:Yes,Your Majesty,the clothes are magnificent!They will make you look even more majestic.
+
+Emperor:(entering)Excellent!I will try them on tomorrow for the grand parade.
+
+Scene 4:The Parade Preparations
+
+(The Emperor is in his dressing room.The cheats help him put on the"new clothes".)
+
+Cheat A:Here,Your Majesty,let us adjust the sleeves.They must fit perfectly.
+
+Cheat B:And the collar,so elegant.You look absolutely stunning.
+
+Emperor:I feel so grand in these clothes.My subjects will be amazed.
+
+Minister:(whispering)I still can't see anything,but I must go along with it.
+
+Scene 5:The Parade
+
+(The Emperor walks down the street.Citizens gather to watch.)
+
+Citizen 1:Look at the Emperor's new clothes!They're so beautiful!
+
+Citizen 2:I've never seen such fine fabric!The colors are amazing.
+
+Child:Wait,the Emperor isn't wearing any clothes at all!
+
+Citizen 1:What?That's impossible!
+
+Citizen 2:But the child is speaking the truth.The Emperor has nothing on!
+
+Emperor:(embarrassed)This can't be!But I can't let everyone know I've been fooled.I must continue the parade.
+
+(The Emperor continues walking,trying to act as if nothing is wrong.The citizens start murmuring among themselves.)
+
+Citizen 1:Maybe the child is right.Maybe the Emperor isn't wearing anything.
+
+Citizen 2:But how?The tailors said only the wise could see the clothes.
+
+Minister:(nervously)I think I need to speak with the Emperor about this.
+
+Scene 6:After the Parade
+
+(The Emperor returns to the palace,looking flustered.The minister approaches him.)
+
+Minister:Your Majesty,perhaps we were deceived.The clothes we thought we saw...they weren't real.
+
+Emperor:(angry)What?Those tailors tricked me?I was humiliated in front of everyone!
+
+Cheat A and B:(entering quickly)Your Majesty,we can explain.It was all a misunderstanding.
+
+Cheat B:We never meant to embarrass you.We thought the clothes would be visible to everyone.
+
+Emperor:(shouting)Get out of my palace!I never want to see you again!
+
+Narrator:And so,the Emperor learned a valuable lesson about honesty and not being afraid to admit when we've made a mistake.
+
+The End
+

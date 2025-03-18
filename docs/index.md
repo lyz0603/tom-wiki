@@ -9,7 +9,7 @@ comments: true
 祝AS百年好合！ :grin:
 
 ??? tip "小贴士"
-    此处AS指Alex和Selina。另外，由Amanda提出的将AS改为KL的建议被养老院成员全票否决。
+    此处AS指Alex和Selina。另外，经过民主表决，由Amanda提出的将AS改为KL的建议被养老院成员全票否决。
 
 ## 欢迎
 
@@ -34,7 +34,7 @@ Hallo!
 ## 链接
 
 1. <https://lyz0603.github.io/tom-wiki>
-2. <http://47.99.170.4>
+2. <http://47.99.170.4>（想看安全警告？试着使用https……）
 
 ## 状态监测
 
