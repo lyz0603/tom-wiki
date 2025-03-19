@@ -21,9 +21,6 @@ theme:
         - search.suggest
         - search.highlight
         - content.tabs.link
-    icon:
-        edit: material/pencil
-        view: material/eye
 
 plugins:
     - search

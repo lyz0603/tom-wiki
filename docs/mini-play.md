@@ -307,7 +307,7 @@ Hamlet:(Dying)The rest is silence.
 
 ## v3
 
-[下载Word文档](./files/hmlt1.docx)
+[下载Word文档](./files/mini-play1.docx)
 
 ## v4
 
@@ -400,7 +400,7 @@ Would he have used me so, had I not given him my heart?（将花环抛入虚空�
 
 此版本既适合学生表演，又通过强烈的视觉意象传递莎剧精髓。需要道具：布景屏风（快速切换场景）、软木剑、骨制酒杯、纸质花瓣等。
 
-[下载Word文档](./files/hmlt2.docx)
+[下载Word文档](./files/mini-play2.docx)
 
 
 ## v5
