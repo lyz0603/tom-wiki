@@ -525,3 +525,125 @@ Narrator:And so,the Emperor learned a valuable lesson about honesty and not bein
 
 The End
 
+## v6
+
+《The Emperor's New Clothes》
+
+Characters:
+
+- Narrator(旁白)
+
+- Emperor(皇帝)
+
+- Cheat A(骗子A)
+
+- Cheat B(骗子B)
+
+- Minister(大臣)
+
+- Child(孩子)
+
+- Citizen 1(市民1)
+
+- Citizen 2(市民2)
+
+Scene 1: The Palace
+
+(The Emperor is sitting on his throne, surrounded by his servants. He is looking at himself in a mirror, adjusting his robes.)
+
+Emperor: (admiring himself in the mirror, smoothing his robes) Oh, my subjects! I must have the most beautiful clothes in the world. I will give a reward to anyone who can make me the finest garments.
+
+(Cheat A and Cheat B enter the palace, dressed as tailors, carrying a large bundle of "fabric".)
+
+Cheat A: (bowing deeply) Your Majesty, we are the most skilled tailors in the land. We have traveled far and wide to bring you the most exquisite materials.
+
+Cheat B: (also bowing) And these clothes have a special power. Only the wise and worthy can see them. Fools will see nothing at all.
+
+Emperor: (excitedly clapping his hands) Really? Then you must make me these clothes at once! I will have the finest wardrobe in the kingdom.
+
+Cheat A: (nodding vigorously) Of course, Your Majesty. We will start weaving immediately.
+
+Cheat B: (gesturing grandly) The colors will be so vibrant, and the patterns so intricate, that all who see you will be in awe.
+
+Emperor: (smiling broadly) Excellent! I will return tomorrow to check on your progress.
+
+Scene 2: The Weaving Process
+
+(The two cheats set up a loom and pretend to weave. They make gestures as if handling fabric and thread.)
+
+Cheat A: (pretending to weave) Look, Your Majesty, the cloth is taking shape. Isn't it magnificent?
+
+Cheat B: (also pretending to weave) Yes, the colors are so vibrant! You will look splendid in these new clothes.
+
+Emperor: (squinting at the loom) I can't quite see it, but I must be wise to wear such special clothes. I'll send my minister to check on your progress.
+
+Cheat A: (bowing) As you wish, Your Majesty.
+
+Scene 3: The Minister's Visit
+
+(The Minister enters, looking nervous. He approaches the loom where the cheats are "weaving".)
+
+Minister: (peering at the loom, whispering to himself) Your Majesty, I see nothing but empty threads. But I can't admit I'm a fool.
+
+Cheat A: (smiling confidently) Of course you see the clothes! They're almost ready. The patterns are so delicate.
+
+Cheat B: (nodding in agreement) Just tell the Emperor how wonderful they are. He will be pleased.
+
+Minister: (forcing a smile) Yes, Your Majesty, the clothes are magnificent! They will make you look even more majestic.
+
+Emperor: (entering, clapping his hands) Excellent! I will try them on tomorrow for the grand parade.
+
+Scene 4: The Parade Preparations
+
+(The Emperor is in his dressing room. The cheats help him put on the "new clothes".)
+
+Cheat A: (pretending to adjust sleeves) Here, Your Majesty, let us adjust the sleeves. They must fit perfectly.
+
+Cheat B: (pretending to adjust the collar) And the collar, so elegant. You look absolutely stunning.
+
+Emperor: (spinning around, admiring himself) I feel so grand in these clothes. My subjects will be amazed.
+
+Minister: (whispering to himself, looking worried) I still can't see anything, but I must go along with it.
+
+Scene 5: The Parade
+
+(The Emperor walks down the street. Citizens gather to watch.)
+
+Citizen 1: (pointing) Look at the Emperor's new clothes! They're so beautiful!
+
+Citizen 2: (nodding) I've never seen such fine fabric! The colors are amazing.
+
+Child: (pointing and laughing) Wait, the Emperor isn't wearing any clothes at all!
+
+Citizen 1: (shocked) What? That's impossible!
+
+Citizen 2: (realizing) But the child is speaking the truth. The Emperor has nothing on!
+
+Emperor: (embarrassed, covering himself) This can't be! But I can't let everyone know I've been fooled. I must continue the parade.
+
+(The Emperor continues walking, trying to act as if nothing is wrong. The citizens start murmuring among themselves.)
+
+Citizen 1: (whispering) Maybe the child is right. Maybe the Emperor isn't wearing anything.
+
+Citizen 2: (whispering back) But how? The tailors said only the wise could see the clothes.
+
+Minister: (nervously, approaching the Emperor) I think I need to speak with the Emperor about this.
+
+Scene 6: After the Parade
+
+(The Emperor returns to the palace, looking flustered. The minister approaches him.)
+
+Minister: (bowing) Your Majesty, perhaps we were deceived. The clothes we thought we saw... they weren't real.
+
+Emperor: (angrily, pacing) What? Those tailors tricked me? I was humiliated in front of everyone!
+
+Cheat A and B: (entering quickly, bowing nervously) Your Majesty, we can explain. It was all a misunderstanding.
+
+Cheat B: (pleading) We never meant to embarrass you. We thought the clothes would be visible to everyone.
+
+Emperor: (shouting, pointing to the door) Get out of my palace! I never want to see you again!
+
+Narrator: (voiceover) And so, the Emperor learned a valuable lesson about honesty and not being afraid to admit when we've made a mistake.
+
+The End
+
