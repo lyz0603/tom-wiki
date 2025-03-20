@@ -52,3 +52,10 @@ Hallo!
 ## 第一个五年计划
 
 1. [ ] 添加多语种古猿介绍（Andy赞助）
+
+## 赵希润的最爱
+
+1. cc
+2. 下面的视频
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1104825245&bvid=BV1sw4m1D79p&cid=1557364390&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
