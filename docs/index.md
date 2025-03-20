@@ -37,8 +37,12 @@ Hallo!
 
 ## 链接
 
-1. <https://lyz0603.github.io/tom-wiki>
-2. <http://47.99.170.4>（想看安全警告？试着使用https……）
+1. 在线版
+    - <https://lyz0603.github.io/tom-wiki>
+    - <http://47.99.170.4>（镜像；想看安全警告？试着使用[https](https://47.99.170.4)……）
+2. 离线版下载
+    - <https://github.com/lyz0603/tom-wiki/archive/refs/heads/gh-pages.zip>
+    - <https://kkgithub.com/lyz0603/tom-wiki/archive/refs/heads/gh-pages.zip>（镜像）
 
 ## 状态监测
 
