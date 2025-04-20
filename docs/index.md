@@ -10,10 +10,10 @@ comments: true
 
 欢迎加入汤姆教，详情请询问Andy。
 
-祝AS百年好合！ :grin:
+祝AS<del>/AA</del>百年好合！ :grin:
 
 ??? tip "小贴士"
-    此处AS指Alex和Selina。另外，经过民主表决，由Amanda提出的将AS改为KL的建议被养老院成员全票否决。
+    此处AS指Alex和Selina<del>，AA不必多说</del>。另外，经过民主表决，由Amanda提出的将AS改为KL的建议被养老院成员全票否决。
 
 ## 欢迎
 
@@ -39,7 +39,7 @@ Hallo!
 
 1. 在线版
     - <https://lyz0603.github.io/tom-wiki>
-    - <http://47.99.170.4>（镜像；想看安全警告？试着使用[https](https://47.99.170.4)……）
+    - <http://47.99.170.4:1708>
 2. 离线版下载
     - <https://github.com/lyz0603/tom-wiki/archive/refs/heads/gh-pages.zip>
     - <https://kkgithub.com/lyz0603/tom-wiki/archive/refs/heads/gh-pages.zip>（镜像）
@@ -51,7 +51,7 @@ Hallo!
 
 ## 第一个五年计划
 
-1. [ ] 添加多语种古猿介绍（Andy赞助）
+1. [ ] 添加多语种古猿介绍（Andy赞助，至今未收到）
 
 ## 赵希润的最爱的视频
 

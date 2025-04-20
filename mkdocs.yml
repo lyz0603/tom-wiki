@@ -32,7 +32,6 @@ plugins:
     - awesome-pages
     - encryptcontent
 
-
 copyright: Copyright &copy; 2023~2025 养老院
 
 extra:
@@ -52,7 +51,6 @@ nav:
         - 古猿词典: dictionary.md
         - 栖息地介绍: habitat.md
         - 反猿英雄第一人: the-first-heroic-person-who-fought-against-the-ancient-ape.md
-    - 短剧: mini-play.md
 
 markdown_extensions:
       - abbr
