@@ -6,8 +6,8 @@ comments: true
 
 ## 古猿诗词
 
-!!! note "作者"
-    这些诗的作者懒得整了……
+!!! note "说明"
+    初一七班已改为初二七班
     
 
 **其一**
@@ -61,7 +61,7 @@ comments: true
 
 ???+ warning "警告"
 
-    没过审！
+    没过审！<del>可能</del>存在人身攻击或脏话！
 
     ??? note "执意要看："
 
@@ -111,4 +111,4 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
             - $2ToM + SiO_2 \rightarrow 2ToO \downarrow + SiM_2$
 
 [^1]: 作者Lucky，试图转换为英文方块字但原稿丢失
-[^2]: 由Ray提供，纯属虚构，有改编
+[^2]: 作者Ray提供，有修改

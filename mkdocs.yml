@@ -24,13 +24,8 @@ theme:
 
 plugins:
     - search
-    - minify:
-        minify_html: true
-        minify_css: true
-        minify_js: true
     - git-revision-date
     - awesome-pages
-    - encryptcontent
 
 copyright: Copyright &copy; 2023~2025 养老院
 
@@ -86,3 +81,4 @@ markdown_extensions:
       - wikilinks
       - pymdownx.magiclink
       - pymdownx.progressbar
+
