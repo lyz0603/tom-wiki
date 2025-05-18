@@ -2,8 +2,8 @@
 comments: true
 ---
 
-# 反猿英雄第一人
- 
+# The First Hero to Fight Against the Ancient Ape
+
 ```text
     _/                            _/                  
    _/        _/    _/    _/_/_/  _/  _/    _/    _/   
@@ -14,8 +14,8 @@ _/_/_/_/    _/_/_/    _/_/_/  _/    _/    _/_/_/
                                         _/_/          
 ```
 
-## 贡献
+## Contributions
 
-1. 第一个反抗王昊宸的人，提出“古猿”的概念
-2. 直接或间接创造了很多古猿文学
-3. 唯一一个能够在物理上和精神上震慑古猿的人，可以吓死古猿
+The first person to resist Wang Haochen and proposed the concept of "Ancient Ape"
+Directly or indirectly created much of the ancient ape literature
+The only person who can physically and mentally震慑the ancient ape and can scare it to death

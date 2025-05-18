@@ -26,6 +26,27 @@ plugins:
     - search
     - git-revision-date
     - awesome-pages
+    - i18n:
+        docs_structure: suffix
+        languages:
+            - locale: zh
+              default: true
+              name: 中文
+              build: true
+            - locale: en
+              name: English
+              build: true
+              site_name: Tom Wiki
+              site_description: A website introducing Tom
+              copyright: Copyright &copy; 2023~2025 old people's home
+              nav:
+                - Homepage: index.md
+                - About the Ancient Ape: about.md
+                - Ancient Ape Library: docs.md
+                - Appendix:
+                    - Ancient Ape Library: dictionary.md
+                    - Habitat Introduction: habitat.md
+                    - The First Hero to Fight Against the Ancient Ape: the-first-heroic-person-who-fought-against-the-ancient-ape.md
 
 copyright: Copyright &copy; 2023~2025 养老院
 

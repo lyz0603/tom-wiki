@@ -28,7 +28,7 @@ Hallo!
 
 ## 链接
 
-1. 在线版
+- 在线版
     - 国外：<https://lyz0603.github.io/tom-wiki>
     - 国内：<http://47.99.170.4:8080>
 
