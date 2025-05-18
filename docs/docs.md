@@ -125,7 +125,7 @@ comments: true
 夜来城外香蕉烂，晓驾蕉车辗香蕉。<br />
 猴困猿饥日已高，校北门外泥中歇。<br />
 翩翩两人来是谁？杭外学生蓝衫儿。<br />
-手把A本口称sin，回车叱猴牵向南。<br />
+手把A本口称$\sin$，回车叱猴牵向南。<br />
 一车蕉，八千斤，学生驱将惜不得。<br />
 半匹试卷一B本，系向猴头充蕉直。
 
@@ -149,13 +149,13 @@ But Tom hates homework. It never hands in the Shi Yan Ban. Then Hai Ge's eyes ar
     - 参考答案：~~水~~ 汤姆[^2]
     - 解析：汤姆$ToM$可以和以下物质反应：
         - 金属单质：(selin)钠$Na$
-            - $2ToM + 2Na \rightarrow To_2 \uparrow + 2NaM$
+        - $2ToM + 2Na \rightarrow To_2 \uparrow + 2NaM$<br />
         - 金属氧化物：一氧化香蕉:banana:$BnO$
-            - $ToM + BnO \rightarrow ToO \downarrow +  BnM$
+        - $ToM + BnO \rightarrow ToO \downarrow +  BnM$<br />
         - 非金属单质：土鳖$Tb$
-            - $2ToM + 2Tb \rightarrow To_2 \uparrow + 2TbM$
+        - $2ToM + 2Tb \rightarrow To_2 \uparrow + 2TbM$<br />
         - 非金属氧化物：（丁丁里的）二氧化硅$SiO_2$
-            - $2ToM + SiO_2 \rightarrow 2ToO \downarrow + SiM_2$
+        - $2ToM + SiO_2 \rightarrow 2ToO \downarrow + SiM_2$
 
 [^1]: 作者Lucky，试图转换为英文方块字但原稿丢失
 [^2]: 作者Ray，有修改
