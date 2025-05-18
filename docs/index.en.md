@@ -31,7 +31,7 @@ This website is used to record information and misdeeds about Tom. If you have a
 ## Links
 
 - Online Versions
-    - Overseas: <https://lyz0603.github.io/tom-wiki</url>
+    - Overseas: <https://lyz0603.github.io/tom-wiki>
     - Domestic: <http://47.99.170.4:8080>
 
 ## First Five-Year Plan
