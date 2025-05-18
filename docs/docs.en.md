@@ -112,7 +112,7 @@ The wind卷ape's tree, eight bananas飞.<br />
 Bananas飞across the river, sprinkling bananas everywhere.<br />
 High ones挂on Xiaohe Mountain, low ones飘and sink in HFLS.<br />
 HFLS students欺负old and weak apes, shamelessly stealing bananas right in front.<br />
-They公然take bananas into HFLS, I唇焦口燥can't stop them, return to lean against the tree and sigh.<br />
+They公然take bananas into HFLS, I唇焦口燥can't stop them, return to lean against the tree and sigh. (So ancient apes and humans have been enemies ever since.)<br />
 After a while, the wind stops and云banana turns color, the autumn sky is漠漠and bananas are black.<br />
 The ape's hair is cold as iron after many years, young apes sleep badly and bananas裂.<br />
 Under the tree, there's no banana place, bananas如麻all rot.<br />
