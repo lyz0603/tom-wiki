@@ -8,6 +8,10 @@ comments: true
 
 **犯我7B者，**![虽远/近必诛！](./files/index1.jpg)
 
+时局图1.0版
+
+![时局图](./files/index2.svg)
+
 ## 欢迎
 
 你好！
