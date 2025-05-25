@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /the-first-heroic-person-who-fought-against-the-ancient-ape/
-Sitemap: /sitemap.xml
+Disallow: *
