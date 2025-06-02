@@ -8,7 +8,7 @@ comments: true
 
 **犯我7B者，**![虽远/近必诛！](./files/index1.jpg)
 
-时局图1.1 Simon定制版
+时局图2.1 Simon定制版
 
 ![时局图](./files/index2.svg)
 
