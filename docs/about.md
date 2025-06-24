@@ -42,6 +42,7 @@ comments: true
 - 科学课：小米、大脑切片
 - 英语课：trivel
 - 社会课：北伐
+- 进食：我是<strong>香</strong>古猿
 - 平时：番～薯～，kill～kill～kill～，现场宰杀一只…
 
 ## 古猿的发音
@@ -72,6 +73,9 @@ comments: true
 |37|暗恋 roast Kiki|
 |[38](./the-first-heroic-person-who-fought-against-the-ancient-ape.md)|Lu狗（狗）|
 |41|扬子鳄，克劳克代油|
+
+- 常见前缀：老- 臭-
+- 常见后缀：-鼠（薯？）
 
 ## 化学反应
 
